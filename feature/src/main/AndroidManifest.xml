@@ -14,8 +14,8 @@
                 <category android:name="android.intent.category.DEFAULT" />
 
                 <data
-                    android:host="com.devjchankchan"
-                    android:pathPattern="/example"
+                    android:host="watarusuzuki.github.io"
+                    android:pathPattern="/SimpleAndroidInstantApp/"
                     android:scheme="https" />
             </intent-filter>
             <intent-filter>
